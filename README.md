@@ -1,0 +1,22 @@
+# FLASK-TAILWIND-API (SPA)
+## belum sempurna
+
+## Include
+
+- SQLITE
+- TAILWIND
+- FLASK
+
+
+## Installation
+
+langsung install aja atau sebelumnya pakai env
+
+```sh
+mkdir terserah_namanya_apa (nama mantan juga boleh)
+cd nama directorynya
+python3 -m venv python_kuh
+python_kuh\Scripts\activate.bat
+tinggal install aja udh ada requirments.txt e kok
+tailwind udh di build tinggal pakai saja hasil build e
+```
